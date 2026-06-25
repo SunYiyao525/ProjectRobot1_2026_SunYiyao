@@ -1,0 +1,10 @@
+git init
+git add .
+git commit -m "Initial upload of MicroPython robot control project"
+git branch -M main
+git remote add origin https://github.com/SunYiyao525/ProjectRobot1_2026_SunYiyao.git
+git push -u origin main
+
+
+
+The initial local Git commit was completed successfully. The final project files were uploaded through the GitHub web interface due to network issues during command-line push.
