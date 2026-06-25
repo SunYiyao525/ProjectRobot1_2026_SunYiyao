@@ -113,19 +113,6 @@ ProjectRobot1_2026_SunYiyao/
 ├── docs/
 │   └── git_command_history.txt
 │
-├── screenshots/
-│   ├── mu_editor_environment.png
-│   ├── tinybit_library_repl.png
-│   ├── robot_hardware.jpg
-│   ├── forward_test.jpg
-│   ├── direction_control_test.jpg
-│   ├── speed_control_test.jpg
-│   └── path_control_test.jpg
-│
-├── reports/
-│   ├── ProjectRobot1_Report.pdf
-│   └── Socio_Technical_Analysis_Report.pdf
-│
 └── video/
     └── demo_video_url.txt
 ```
